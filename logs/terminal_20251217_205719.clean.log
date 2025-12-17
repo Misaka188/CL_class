@@ -1,0 +1,550 @@
+Loading labels...
+Loading LUP...
+Loading labels names...
+Files already downloaded and verified
+
+Training with Custom strategy...
+2025-12-17 20:57:23,089 INFO Starting training with Custom strategy
+Training on task 0
+2025-12-17 20:57:23,921 INFO Training on task 0
+-- >> Start of training phase << --
+
+
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.2923
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9251
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0675
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9805
+
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0463
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9875
+
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0418
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9882
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0254
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9923
+
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0219
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9952
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0068
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9983
+
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0030
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9992
+
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0007
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0005
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 4.6447
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.2508
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 4.6447
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.2508
+Results after task 0: {}
+2025-12-17 20:59:21,378 INFO Results after task 0: {}
+Training on task 1
+2025-12-17 20:59:21,384 INFO Training on task 1
+-- >> Start of training phase << --
+
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.1554
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9623
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0089
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9987
+
+  1%|          | 1/118 [00:01<02:15,  1.16s/it]
+  1%|          | 1/118 [00:01<02:15,  1.16s/it]
+  2%|1         | 2/118 [00:01<02:14,  1.16s/it]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0040
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9997
+
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0020
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9999
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0016
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:30,  1.29s/it]
+  1%|          | 1/118 [00:01<02:30,  1.29s/it]
+  2%|1         | 2/118 [00:01<02:29,  1.29s/it]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0010
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0007
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0006
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:23,  1.22s/it]
+  1%|          | 1/118 [00:01<02:23,  1.22s/it]
+  2%|1         | 2/118 [00:01<02:21,  1.22s/it]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0005
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0006
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 3.8498
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.3157
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 3.8498
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.3157
+Results after task 1: {}
+2025-12-17 21:02:08,775 INFO Results after task 1: {}
+Training on task 2
+2025-12-17 21:02:08,781 INFO Training on task 2
+-- >> Start of training phase << --
+
+  1%|          | 1/118 [00:01<02:12,  1.14s/it]
+  1%|          | 1/118 [00:01<02:12,  1.14s/it]
+  2%|1         | 2/118 [00:01<02:11,  1.14s/it]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.1184
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9683
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0045
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9996
+
+  1%|          | 1/118 [00:01<02:05,  1.07s/it]
+  1%|          | 1/118 [00:01<02:05,  1.07s/it]
+  2%|1         | 2/118 [00:01<02:04,  1.07s/it]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0016
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0010
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0007
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<01:58,  1.01s/it]
+  1%|          | 1/118 [00:01<01:58,  1.01s/it]
+  2%|1         | 2/118 [00:01<01:56,  1.01s/it]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0006
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0005
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:00,  1.03s/it]
+  1%|          | 1/118 [00:01<02:00,  1.03s/it]
+  2%|1         | 2/118 [00:01<01:59,  1.03s/it]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0004
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 3.2305
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5027
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 3.2305
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.5027
+Results after task 2: {}
+2025-12-17 21:04:55,341 INFO Results after task 2: {}
+Training on task 3
+2025-12-17 21:04:55,347 INFO Training on task 3
+-- >> Start of training phase << --
+
+  1%|          | 1/118 [00:01<02:09,  1.11s/it]
+  1%|          | 1/118 [00:01<02:09,  1.11s/it]
+  2%|1         | 2/118 [00:01<02:08,  1.11s/it]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0926
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9749
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0041
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9993
+
+  1%|          | 1/118 [00:01<01:57,  1.00s/it]
+  1%|          | 1/118 [00:01<01:57,  1.00s/it]
+  2%|1         | 2/118 [00:01<01:56,  1.00s/it]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0013
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0009
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9999
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0007
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:02,  1.04s/it]
+  1%|          | 1/118 [00:01<02:02,  1.04s/it]
+  2%|1         | 2/118 [00:01<02:01,  1.04s/it]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0004
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:03,  1.05s/it]
+  1%|          | 1/118 [00:01<02:03,  1.05s/it]
+  2%|1         | 2/118 [00:01<02:02,  1.05s/it]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 3.1094
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5029
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 3.1094
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.5029
+Results after task 3: {}
+2025-12-17 21:07:42,480 INFO Results after task 3: {}
+Training on task 4
+2025-12-17 21:07:42,483 INFO Training on task 4
+-- >> Start of training phase << --
+
+  1%|          | 1/118 [00:01<01:59,  1.02s/it]
+  1%|          | 1/118 [00:01<01:59,  1.02s/it]
+  2%|1         | 2/118 [00:01<01:58,  1.02s/it]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0501
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9866
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0022
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9996
+
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0007
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<01:58,  1.01s/it]
+  1%|          | 1/118 [00:01<01:58,  1.01s/it]
+  2%|1         | 2/118 [00:01<01:57,  1.01s/it]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0004
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<01:57,  1.00s/it]
+  1%|          | 1/118 [00:01<01:57,  1.00s/it]
+  2%|1         | 2/118 [00:01<01:56,  1.00s/it]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<01:57,  1.01s/it]
+  1%|          | 1/118 [00:01<01:57,  1.01s/it]
+  2%|1         | 2/118 [00:01<01:56,  1.01s/it]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 2.8640
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5384
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 2.8640
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.5384
+Results after task 4: {}
+2025-12-17 21:10:27,804 INFO Results after task 4: {}
+Training on task 5
+2025-12-17 21:10:27,811 INFO Training on task 5
+-- >> Start of training phase << --
+
+  1%|          | 1/118 [00:01<02:16,  1.16s/it]
+  1%|          | 1/118 [00:01<02:16,  1.16s/it]
+  2%|1         | 2/118 [00:01<02:15,  1.16s/it]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0971
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9739
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0034
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9996
+
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0015
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9998
+
+  1%|          | 1/118 [00:01<02:08,  1.10s/it]
+  1%|          | 1/118 [00:01<02:08,  1.10s/it]
+  2%|1         | 2/118 [00:01<02:07,  1.10s/it]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0007
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0005
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9999
+
+  1%|          | 1/118 [00:01<02:00,  1.03s/it]
+  1%|          | 1/118 [00:01<02:00,  1.03s/it]
+  2%|1         | 2/118 [00:01<01:59,  1.03s/it]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0004
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:11,  1.13s/it]
+  1%|          | 1/118 [00:01<02:11,  1.13s/it]
+  2%|1         | 2/118 [00:01<02:10,  1.13s/it]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0004
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 2.5884
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5561
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 2.5884
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.5561
+Results after task 5: {}
+2025-12-17 21:13:14,761 INFO Results after task 5: {}
+Training on task 6
+2025-12-17 21:13:14,769 INFO Training on task 6
+-- >> Start of training phase << --
+
+  1%|          | 1/117 [00:01<02:25,  1.25s/it]
+  1%|          | 1/117 [00:01<02:25,  1.25s/it]
+  2%|1         | 2/117 [00:01<02:23,  1.25s/it]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0482
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9863
+
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0017
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9998
+
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0011
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9998
+
+  1%|          | 1/117 [00:01<02:04,  1.07s/it]
+  1%|          | 1/117 [00:01<02:04,  1.07s/it]
+  2%|1         | 2/117 [00:01<02:03,  1.07s/it]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0005
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0003
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/117 [00:01<02:07,  1.10s/it]
+  1%|          | 1/117 [00:01<02:07,  1.10s/it]
+  2%|1         | 2/117 [00:01<02:06,  1.10s/it]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/117 [00:01<02:06,  1.09s/it]
+  1%|          | 1/117 [00:01<02:06,  1.09s/it]
+  2%|1         | 2/117 [00:01<02:05,  1.09s/it]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 2.2703
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5913
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 2.2703
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.5913
+Results after task 6: {}
+2025-12-17 21:16:01,367 INFO Results after task 6: {}
+Training on task 7
+2025-12-17 21:16:01,372 INFO Training on task 7
+-- >> Start of training phase << --
+
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0582
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9829
+
+  1%|          | 1/118 [00:01<02:07,  1.09s/it]
+  1%|          | 1/118 [00:01<02:07,  1.09s/it]
+  2%|1         | 2/118 [00:01<02:06,  1.09s/it]
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0043
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9992
+
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0014
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.9999
+
+  1%|          | 1/118 [00:01<02:13,  1.14s/it]
+  1%|          | 1/118 [00:01<02:13,  1.14s/it]
+  2%|1         | 2/118 [00:01<02:12,  1.14s/it]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0005
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0004
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:05,  1.07s/it]
+  1%|          | 1/118 [00:01<02:05,  1.07s/it]
+  2%|1         | 2/118 [00:01<02:04,  1.07s/it]
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0002
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+  1%|          | 1/118 [00:01<02:18,  1.18s/it]
+  1%|          | 1/118 [00:01<02:18,  1.18s/it]
+  2%|1         | 2/118 [00:01<02:16,  1.18s/it]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream/Task000 = 0.0001
+	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 1.0000
+/home/why_home/anaconda3/envs/CL1/lib/python3.10/site-packages/avalanche/training/plugins/replay.py:123: DeprecationWarning: Call to deprecated function update (removal in version 0.7: switch to pre_adapt and post_adapt)
+  self.storage_policy.update(strategy, **kwargs)
+-- >> End of training phase << --
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 2.0669
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.6115
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task000 = 2.0669
+	Top1_Acc_Stream/eval_phase/test_stream/Task000 = 0.6115
+Results after task 7: {}
+2025-12-17 21:18:45,747 INFO Results after task 7: {}
+Completed training with Custom strategy
+
+2025-12-17 21:18:45,751 INFO Completed training with Custom strategy
+All experiments completed!
+2025-12-17 21:18:45,754 INFO All experiments completed!

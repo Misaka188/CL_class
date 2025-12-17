@@ -1,0 +1,192 @@
+2025-12-16 19:51:10,290 INFO Starting training with Naive strategy
+2025-12-16 19:51:10,368 INFO Training on task 0
+2025-12-16 20:03:45,447 INFO Starting training with Naive strategy
+2025-12-16 20:03:45,632 INFO Training on task 0
+2025-12-16 20:11:03,398 INFO Results after task 0: {}
+2025-12-16 20:11:03,400 INFO Training on task 1
+2025-12-16 20:14:35,813 INFO Results after task 1: {}
+2025-12-16 20:14:35,817 INFO Training on task 2
+2025-12-16 20:17:59,984 INFO Results after task 2: {}
+2025-12-16 20:17:59,986 INFO Training on task 3
+2025-12-16 20:21:48,169 INFO Results after task 3: {}
+2025-12-16 20:21:48,175 INFO Training on task 4
+2025-12-16 20:25:21,358 INFO Results after task 4: {}
+2025-12-16 20:25:21,363 INFO Training on task 5
+2025-12-16 20:29:26,547 INFO Results after task 5: {}
+2025-12-16 20:29:26,552 INFO Training on task 6
+2025-12-16 20:33:08,623 INFO Results after task 6: {}
+2025-12-16 20:33:08,626 INFO Training on task 7
+2025-12-16 20:36:48,483 INFO Results after task 7: {}
+2025-12-16 20:36:48,484 INFO Completed training with Naive strategy
+2025-12-16 20:36:48,484 INFO Starting training with Replay strategy
+2025-12-16 20:36:48,508 INFO Training on task 0
+2025-12-16 20:38:18,304 INFO Results after task 0: {}
+2025-12-16 20:38:18,309 INFO Training on task 1
+2025-12-16 20:40:20,429 INFO Results after task 1: {}
+2025-12-16 20:40:20,431 INFO Training on task 2
+2025-12-16 20:42:21,106 INFO Results after task 2: {}
+2025-12-16 20:42:21,113 INFO Training on task 3
+2025-12-16 20:45:10,584 INFO Results after task 3: {}
+2025-12-16 20:45:10,589 INFO Training on task 4
+2025-12-16 20:47:30,964 INFO Results after task 4: {}
+2025-12-16 20:47:30,969 INFO Training on task 5
+2025-12-16 20:50:27,887 INFO Results after task 5: {}
+2025-12-16 20:50:27,892 INFO Training on task 6
+2025-12-16 20:52:25,716 INFO Results after task 6: {}
+2025-12-16 20:52:25,718 INFO Training on task 7
+2025-12-16 20:54:25,641 INFO Results after task 7: {}
+2025-12-16 20:54:25,642 INFO Completed training with Replay strategy
+2025-12-16 20:54:25,642 INFO All experiments completed!
+2025-12-17 16:41:02,950 INFO Starting training with Naive strategy
+2025-12-17 16:41:04,162 INFO Training on task 0
+2025-12-17 16:42:17,304 INFO Starting training with Naive strategy
+2025-12-17 16:42:18,020 INFO Training on task 0
+2025-12-17 16:43:45,669 INFO Results after task 0: {}
+2025-12-17 16:43:45,685 INFO Training on task 1
+2025-12-17 16:45:12,081 INFO Results after task 1: {}
+2025-12-17 16:45:12,087 INFO Training on task 2
+2025-12-17 16:46:36,312 INFO Results after task 2: {}
+2025-12-17 16:46:36,318 INFO Training on task 3
+2025-12-17 16:48:00,307 INFO Results after task 3: {}
+2025-12-17 16:48:00,313 INFO Training on task 4
+2025-12-17 16:49:25,757 INFO Results after task 4: {}
+2025-12-17 16:49:25,763 INFO Training on task 5
+2025-12-17 16:50:50,051 INFO Results after task 5: {}
+2025-12-17 16:50:50,058 INFO Training on task 6
+2025-12-17 16:52:14,564 INFO Results after task 6: {}
+2025-12-17 16:52:14,570 INFO Training on task 7
+2025-12-17 16:53:38,184 INFO Results after task 7: {}
+2025-12-17 16:53:38,186 INFO Completed training with Naive strategy
+2025-12-17 16:53:38,187 INFO Starting training with Replay strategy
+2025-12-17 16:53:38,655 INFO Training on task 0
+2025-12-17 16:55:02,461 INFO Results after task 0: {}
+2025-12-17 16:55:02,464 INFO Training on task 1
+2025-12-17 16:56:53,195 INFO Results after task 1: {}
+2025-12-17 16:56:53,201 INFO Training on task 2
+2025-12-17 16:58:44,600 INFO Results after task 2: {}
+2025-12-17 16:58:44,607 INFO Training on task 3
+2025-12-17 17:00:38,127 INFO Results after task 3: {}
+2025-12-17 17:00:38,133 INFO Training on task 4
+2025-12-17 17:02:29,251 INFO Results after task 4: {}
+2025-12-17 17:02:29,258 INFO Training on task 5
+2025-12-17 17:04:20,399 INFO Results after task 5: {}
+2025-12-17 17:04:20,405 INFO Training on task 6
+2025-12-17 17:06:12,376 INFO Results after task 6: {}
+2025-12-17 17:06:12,382 INFO Training on task 7
+2025-12-17 17:08:01,768 INFO Results after task 7: {}
+2025-12-17 17:08:01,769 INFO Completed training with Replay strategy
+2025-12-17 17:08:01,771 INFO Starting training with Custom strategy
+2025-12-17 17:08:02,239 INFO Training on task 0
+2025-12-17 17:28:41,993 INFO Starting training with Custom strategy
+2025-12-17 17:28:42,729 INFO Training on task 0
+2025-12-17 17:30:08,954 INFO Results after task 0: {}
+2025-12-17 17:30:08,960 INFO Training on task 1
+2025-12-17 17:32:00,027 INFO Results after task 1: {}
+2025-12-17 17:32:00,034 INFO Training on task 2
+2025-12-17 17:33:51,315 INFO Results after task 2: {}
+2025-12-17 17:33:51,320 INFO Training on task 3
+2025-12-17 17:35:44,882 INFO Results after task 3: {}
+2025-12-17 17:35:44,889 INFO Training on task 4
+2025-12-17 17:37:37,440 INFO Results after task 4: {}
+2025-12-17 17:37:37,448 INFO Training on task 5
+2025-12-17 17:39:29,051 INFO Results after task 5: {}
+2025-12-17 17:39:29,059 INFO Training on task 6
+2025-12-17 17:41:21,280 INFO Results after task 6: {}
+2025-12-17 17:41:21,284 INFO Training on task 7
+2025-12-17 17:43:12,155 INFO Results after task 7: {}
+2025-12-17 17:43:12,158 INFO Completed training with Custom strategy
+2025-12-17 17:43:12,160 INFO All experiments completed!
+2025-12-17 19:18:26,158 INFO Starting training with Custom strategy
+2025-12-17 19:18:26,875 INFO Training on task 0
+2025-12-17 19:19:53,871 INFO Results after task 0: {}
+2025-12-17 19:19:53,876 INFO Training on task 1
+2025-12-17 19:21:46,706 INFO Results after task 1: {}
+2025-12-17 19:21:46,709 INFO Training on task 2
+2025-12-17 19:23:38,135 INFO Results after task 2: {}
+2025-12-17 19:23:38,142 INFO Training on task 3
+2025-12-17 19:25:31,023 INFO Results after task 3: {}
+2025-12-17 19:25:31,030 INFO Training on task 4
+2025-12-17 19:27:22,986 INFO Results after task 4: {}
+2025-12-17 19:27:22,991 INFO Training on task 5
+2025-12-17 19:29:14,947 INFO Results after task 5: {}
+2025-12-17 19:29:14,955 INFO Training on task 6
+2025-12-17 19:31:08,277 INFO Results after task 6: {}
+2025-12-17 19:31:08,284 INFO Training on task 7
+2025-12-17 19:33:00,662 INFO Results after task 7: {}
+2025-12-17 19:33:00,665 INFO Completed training with Custom strategy
+2025-12-17 19:33:00,667 INFO All experiments completed!
+2025-12-17 20:03:38,790 INFO Starting training with Custom strategy
+2025-12-17 20:03:39,508 INFO Training on task 0
+2025-12-17 20:06:33,456 INFO Results after task 0: {}
+2025-12-17 20:06:33,462 INFO Training on task 1
+2025-12-17 20:11:15,482 INFO Results after task 1: {}
+2025-12-17 20:11:15,489 INFO Training on task 2
+2025-12-17 20:15:54,657 INFO Results after task 2: {}
+2025-12-17 20:15:55,343 INFO Training on task 3
+2025-12-17 20:20:34,934 INFO Results after task 3: {}
+2025-12-17 20:20:34,943 INFO Training on task 4
+2025-12-17 20:25:11,573 INFO Results after task 4: {}
+2025-12-17 20:25:11,582 INFO Training on task 5
+2025-12-17 20:29:46,197 INFO Results after task 5: {}
+2025-12-17 20:29:46,208 INFO Training on task 6
+2025-12-17 20:34:21,419 INFO Results after task 6: {}
+2025-12-17 20:34:21,428 INFO Training on task 7
+2025-12-17 20:38:57,083 INFO Results after task 7: {}
+2025-12-17 20:38:57,089 INFO Completed training with Custom strategy
+2025-12-17 20:38:57,093 INFO All experiments completed!
+2025-12-17 20:57:23,089 INFO Starting training with Custom strategy
+2025-12-17 20:57:23,921 INFO Training on task 0
+2025-12-17 20:59:21,378 INFO Results after task 0: {}
+2025-12-17 20:59:21,384 INFO Training on task 1
+2025-12-17 21:02:08,775 INFO Results after task 1: {}
+2025-12-17 21:02:08,781 INFO Training on task 2
+2025-12-17 21:04:55,341 INFO Results after task 2: {}
+2025-12-17 21:04:55,347 INFO Training on task 3
+2025-12-17 21:07:42,480 INFO Results after task 3: {}
+2025-12-17 21:07:42,483 INFO Training on task 4
+2025-12-17 21:10:27,804 INFO Results after task 4: {}
+2025-12-17 21:10:27,811 INFO Training on task 5
+2025-12-17 21:13:14,761 INFO Results after task 5: {}
+2025-12-17 21:13:14,769 INFO Training on task 6
+2025-12-17 21:16:01,367 INFO Results after task 6: {}
+2025-12-17 21:16:01,372 INFO Training on task 7
+2025-12-17 21:18:45,747 INFO Results after task 7: {}
+2025-12-17 21:18:45,751 INFO Completed training with Custom strategy
+2025-12-17 21:18:45,754 INFO All experiments completed!
+2025-12-18 00:52:13,304 INFO Starting training with Naive strategy
+2025-12-18 00:52:14,043 INFO Training on task 0
+2025-12-18 00:54:08,402 INFO Results after task 0: {}
+2025-12-18 00:54:08,483 INFO Training on task 1
+2025-12-18 00:56:02,062 INFO Results after task 1: {}
+2025-12-18 00:56:02,145 INFO Training on task 2
+2025-12-18 00:57:55,144 INFO Results after task 2: {}
+2025-12-18 00:57:55,226 INFO Training on task 3
+2025-12-18 00:59:48,562 INFO Results after task 3: {}
+2025-12-18 00:59:48,644 INFO Training on task 4
+2025-12-18 01:01:41,328 INFO Results after task 4: {}
+2025-12-18 01:01:41,407 INFO Training on task 5
+2025-12-18 01:03:32,024 INFO Results after task 5: {}
+2025-12-18 01:03:32,107 INFO Training on task 6
+2025-12-18 01:05:24,915 INFO Results after task 6: {}
+2025-12-18 01:05:24,998 INFO Training on task 7
+2025-12-18 01:07:17,249 INFO Results after task 7: {}
+2025-12-18 01:07:17,328 INFO Completed training with Naive strategy
+2025-12-18 01:07:17,331 INFO Starting training with Replay strategy
+2025-12-18 01:07:17,814 INFO Training on task 0
+2025-12-18 01:09:09,615 INFO Results after task 0: {}
+2025-12-18 01:09:09,696 INFO Training on task 1
+2025-12-18 01:11:56,420 INFO Results after task 1: {}
+2025-12-18 01:11:56,500 INFO Training on task 2
+2025-12-18 01:14:42,154 INFO Results after task 2: {}
+2025-12-18 01:14:42,235 INFO Training on task 3
+2025-12-18 01:17:29,777 INFO Results after task 3: {}
+2025-12-18 01:17:29,859 INFO Training on task 4
+2025-12-18 01:20:16,874 INFO Results after task 4: {}
+2025-12-18 01:20:16,957 INFO Training on task 5
+2025-12-18 01:23:03,987 INFO Results after task 5: {}
+2025-12-18 01:23:04,075 INFO Training on task 6
+2025-12-18 01:25:51,510 INFO Results after task 6: {}
+2025-12-18 01:25:51,593 INFO Training on task 7
+2025-12-18 01:28:37,685 INFO Results after task 7: {}
+2025-12-18 01:28:37,763 INFO Completed training with Replay strategy
+2025-12-18 01:28:37,767 INFO All experiments completed!

@@ -1,0 +1,15 @@
+batch_size: 128
+lr: 0.001
+buffer_size: 2000
+n_epochs: 10
+device: "cuda"
+seed: 42
+dataset_root: "./data"
+checkpoint_dir: "./checkpoints"
+log_dir: "./logs"
+
+# CustomStrategy (Replay + LwF) 超参
+# distill_lambda: 蒸馏项权重（0=退化为纯 Replay；建议 0.3~0.7 网格搜索）
+distill_lambda: 0.5
+# distill_temp: 蒸馏温度（常用 1.5~4.0）
+distill_temp: 2.0
